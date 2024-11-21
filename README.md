@@ -2,6 +2,7 @@
 ---
 
 THE PROBLEM
+
 Bub is going camping in the North Maine Woods and has found a campsite on perch pond in Aroostock County. The Deboullie Ecoreserve is close and had four ponds that have arctic charr. Bub is an avid fly fisherman and has always wanted to try his luck for arctic charr but he is going to have to hike to the closest spot. This analysis will determine which pond Bub should hike to taking into account the cost path of the hike, the distance of the hike, and the fishing report (number of artic charr caught) at the various ponds. 
 ---
 
