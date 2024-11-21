@@ -41,4 +41,5 @@ THE METHODOOLOGY
 ---
 
 THE RESULTS
+
 Using the Euclidean Distance tool revealed that Gardner Pond was the closest to the campsite and considering the slope and cost distance, the cost path was also the least for Gardner Pond compared to any other pond. The fishing, however, is not great and compared to Deboullie Pond could be considered dismal. Deboullie Pond had the best fishing and only a slightly higher cost path and distance than Gardner Pond, so it was the overall first choice after the overlay’s weights were taken into consideration. These results demonstrate the influence that weights have on the results and the impact of one dataset can have on the results of several others. 
